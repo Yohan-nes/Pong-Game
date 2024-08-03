@@ -12,7 +12,7 @@ Video tutorial below was followed to make the Program
 
 
 <p align="center">
-🎥 <a href=https://www.youtube.com/watch?v=VLJlTaFvHo4&t=139s>Video Tutorial on YouTube</a>
+ <a href=https://www.youtube.com/watch?v=VLJlTaFvHo4&t=139s>Video Tutorial on YouTube</a>
 </p>
 
 
